@@ -1,4 +1,5 @@
 function removeExclamationMarks(s) {
-  newStr = s.replace('!', '');
+  const regex = /!/g;
+  const newStr = s.replace(regex, '');
   return newStr;
 }

@@ -2,11 +2,11 @@
 
 A repo to store my work for codewars kata in different languages
 
-##List of languages I'm currently learning:
+## List of languages I'm currently learning:
 - JavaScript
 - PHP
 - Python
 
-##Tentative Languages/Tech Up Next: 
+## Tentative Languages/Tech Up Next: 
 - C++
 - SQL

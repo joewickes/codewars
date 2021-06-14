@@ -1,3 +1,4 @@
+<? 
 function quarterOf($month) {
   $type_of_month = gettype($month);
 
@@ -9,3 +10,4 @@ function quarterOf($month) {
       : 'Not a valid $month number';
   }
 }
+?>

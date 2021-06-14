@@ -4,6 +4,6 @@ const quarterOf = (month) => {
       : month === 4 || month === 5 || month === 6 ? 2
       : month === 7 || month === 8 || month === 9 ? 3
       : month === 10 || month === 11 || month === 12 ? 4
-      : 'Not a valid month number'
+      : 'Not a valid month number';
   }
 }

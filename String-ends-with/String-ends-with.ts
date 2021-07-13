@@ -1,0 +1,1 @@
+export const solution = (str: string, ending: string): boolean => str.slice(-ending.length) === ending || ending === '' ? true : false;

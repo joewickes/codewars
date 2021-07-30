@@ -1,0 +1,5 @@
+export const apple = (x: number | string): string => {
+  return parseInt(x.toString(), 10) ** 2 > 1000
+    ? "It's hotter than the sun!!"
+    : 'Help yourself to a honeycomb Yorkie for the glovebox.';
+};
